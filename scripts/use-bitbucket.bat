@@ -1,5 +1,5 @@
 git remote -v
 
-git remote set-url origin git@bitbucket.org:marbug/angular2-and-typescript-and-redux.git
+git remote set-url origin git@bitbucket.org:marbug/nodejs-and-express.git
 
 git remote -v

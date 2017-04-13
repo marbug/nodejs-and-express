@@ -31,9 +31,28 @@ You'll see something like:
           --git            add .gitignore
       -f, --force          force on non-empty directory
 
-## TODO
+## Generate app ##
 
-TODO
+For example, the following creates an Express app named **myapp**. The app will be created in a folder named **myapp** in the current working directory and the view engine will be set to [Pug](https://pugjs.org/):
+
+    express --view=pug myapp
+
+## Install dependencies ##
+
+    cd myapp
+    npm install
+
+## Run the app ##
+
+On MacOS or Linux, run the app with this command:
+
+    DEBUG=myapp:* npm start
+
+On Windows, use this command:
+
+    set DEBUG=myapp:* & npm start
+
+Then load [http://localhost:3000/](http://localhost:3000/) in your browser to access the app.
 
 ## Useful links ##
 

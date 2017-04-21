@@ -42,4 +42,7 @@ and open [http://localhost:3000/](http://localhost:3000/) in browser.
 
 [Express Getting Started](http://expressjs.com/en/starter/installing.html)
 
-[prev page: README.md](../README.md) | [next page: Express - Generator](generator.md)
+***
+|  Prev page  |  Next page                      |
+| ----------- | ------------------------------: |
+| [README.md](../README.md) | [Express - Generator](generator.md) |

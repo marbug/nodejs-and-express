@@ -2,4 +2,4 @@
 
 TODO
 
-[next page - Express - Getting Started](express/getting-started.md)
+[next page: Express - Getting Started](express/getting-started.md)

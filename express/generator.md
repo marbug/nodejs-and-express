@@ -37,7 +37,7 @@ For example, the following creates an Express app named **myapp**. The app will 
 
     express --view=pug myapp
 
-or try something like:
+You could also try something like:
 
     express --view=dust my-dust-app
     express --view=ejs my-ejs-app

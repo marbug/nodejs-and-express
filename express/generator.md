@@ -1,4 +1,4 @@
-# Getting Started #
+# Express - Generator #
 
 ## Install generator ##
 
@@ -36,6 +36,17 @@ You'll see something like:
 For example, the following creates an Express app named **myapp**. The app will be created in a folder named **myapp** in the current working directory and the view engine will be set to [Pug](https://pugjs.org/):
 
     express --view=pug myapp
+
+or try something like:
+
+    express --view=dust my-dust-app
+    express --view=ejs my-ejs-app
+    express --view=hbs my-hbs-app
+    express --view=hjs my-hjs-app
+    express --view=jade my-jade-app
+    express --view=pug my-pug-app
+    express --view=twig my-twig-app
+    express --view=vash my-vash-app
 
 ## Install dependencies ##
 
